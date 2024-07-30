@@ -9,6 +9,8 @@
 <!--С фоном-->
 С фоном:
 ![image](https://github.com/user-attachments/assets/28237035-d95c-4f35-aedf-19fef0450aaa)
+![image](https://github.com/user-attachments/assets/81ca0189-2023-4f64-b0b2-7f7d8a3f5f01)
+
 <!--Без фона-->
 Без фона:
 ![image](https://github.com/user-attachments/assets/88ab0738-9461-44d4-a404-067d3cf3832c)
