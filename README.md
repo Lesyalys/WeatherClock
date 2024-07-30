@@ -6,7 +6,14 @@
 Доп функционал:
 Скрыть/показать задний фон
 
-![image](https://github.com/user-attachments/assets/2582a66c-3db5-4b27-9f50-9ad3947242e2)
+<!--С фоном-->
+С фоном:
+![image](https://github.com/user-attachments/assets/28237035-d95c-4f35-aedf-19fef0450aaa)
+<!--Без фона-->
+Без фоном:
+![image](https://github.com/user-attachments/assets/88ab0738-9461-44d4-a404-067d3cf3832c)
+
+
 
 
 <!--Версия
