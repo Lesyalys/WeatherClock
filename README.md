@@ -13,6 +13,9 @@
 Без фона:
 ![image](https://github.com/user-attachments/assets/992e8037-07e5-4e1f-b83e-bea0a369417c)
 
+![air](https://github.com/user-attachments/assets/131d6090-547e-49bb-a644-b81387458e36)
+
+
 
 
 
